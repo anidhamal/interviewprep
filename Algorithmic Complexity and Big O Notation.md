@@ -43,3 +43,4 @@ $O(n!)$ - Factorial time
 | Radix Sort | $O(n + k)$ | $O(nk)$ | $O(nk)$ | $O(n + k)$ |
 | Counting Sort | $O(n + k)$ | $O(n + k)$ | $O(n + k)$ | $O(k)$ |
 | Cubesort | $O(n)$ | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n)$ |
+**![](https://lh7-us.googleusercontent.com/2oVGHiWTfQd-fXDWYmqxvOLiU4fP_ExgDs38D7vjo407g7hUe_JetK7Dxz7tPtM7lHvSfatyHakNTcbnQmvF9KLLBd3NxgH3UnM89ARxk3aUawtVj-XUAlXX4yRiO6l_3p727Y62fVXxPLtrXCpT1w)**
