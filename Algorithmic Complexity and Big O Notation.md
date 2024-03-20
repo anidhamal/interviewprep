@@ -28,19 +28,19 @@ $O(n!)$ - Factorial time
 | Hash Table | N/A | $O(1)$ | Best: $O(1)$ <br> Worst: $O(n)$ | Best: $O(1)$ <br> Worst: $O(n)$ |
 | Binary Search Tree | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ | Best: $O(log \cdot n)$ <br> Worst: $O(n)$ |  Best: $O(log \cdot n)$ <br> Worst: $O(n)$ |
 
-| Algorithm | Best | Average | Worst | Space | 
-|-|-|-|-|-|
-| Quicksort | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n^2)$ | $O(log \cdot n)$ |
-| Mergesort | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n)$ |
-| Timsort | $O(n)$ | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n)$ |
-| Heapsort | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(1)$ |
-| Bubblesort | $O(n)$ | $O(n^2)$ | $O(n^2)$ | $O(1)$ |
-| Insertion Sort | $O(n)$ | $O(n^2)$ | $O(n^2)$ | $O(1)$ |
-| Selection Sort | $O(n^2)$ | $O(n^2)$ | $O(n^2)$ | $O(1)$ |
-| Tree Sort | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n^2)$ | $O(n)$ |
-| Shell Sort | $O(n \cdot log \cdot n)$ | $O((n \cdot log \cdot n)^2)$ | $O((n \cdot log \cdot n)^2)$ | $O(1)$ |
-| Bucket Sort | $O(n + k)$ | $O(n + k)$ | $O(n^2)$ | $O(n)$ |
-| Radix Sort | $O(n + k)$ | $O(nk)$ | $O(nk)$ | $O(n + k)$ |
-| Counting Sort | $O(n + k)$ | $O(n + k)$ | $O(n + k)$ | $O(k)$ |
-| Cubesort | $O(n)$ | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$ | $O(n)$ |
-**![](https://lh7-us.googleusercontent.com/2oVGHiWTfQd-fXDWYmqxvOLiU4fP_ExgDs38D7vjo407g7hUe_JetK7Dxz7tPtM7lHvSfatyHakNTcbnQmvF9KLLBd3NxgH3UnM89ARxk3aUawtVj-XUAlXX4yRiO6l_3p727Y62fVXxPLtrXCpT1w)**
+| Algorithm      | Best                     | Average                      | Worst                        | Space            |     |
+| -------------- | ------------------------ | ---------------------------- | ---------------------------- | ---------------- | --- |
+| Quicksort      | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$     | $O(n^2)$                     | $O(log \cdot n)$ |     |
+| Mergesort      | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$     | $O(n \cdot log \cdot n)$     | $O(n)$           |     |
+| Timsort        | $O(n)$                   | $O(n \cdot log \cdot n)$     | $O(n \cdot log \cdot n)$     | $O(n)$           |     |
+| Heapsort       | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$     | $O(n \cdot log \cdot n)$     | $O(1)$           |     |
+| Bubblesort     | $O(n)$                   | $O(n^2)$                     | $O(n^2)$                     | $O(1)$           |     |
+| Insertion Sort | $O(n)$                   | $O(n^2)$                     | $O(n^2)$                     | $O(1)$           |     |
+| Selection Sort | $O(n^2)$                 | $O(n^2)$                     | $O(n^2)$                     | $O(1)$           |     |
+| Tree Sort      | $O(n \cdot log \cdot n)$ | $O(n \cdot log \cdot n)$     | $O(n^2)$                     | $O(n)$           |     |
+| Shell Sort     | $O(n \cdot log \cdot n)$ | $O((n \cdot log \cdot n)^2)$ | $O((n \cdot log \cdot n)^2)$ | $O(1)$           |     |
+| Bucket Sort    | $O(n + k)$               | $O(n + k)$                   | $O(n^2)$                     | $O(n)$           |     |
+| Radix Sort     | $O(n + k)$               | $O(nk)$                      | $O(nk)$                      | $O(n + k)$       |     |
+| Counting Sort  | $O(n + k)$               | $O(n + k)$                   | $O(n + k)$                   | $O(k)$           |     |
+| Cubesort       | $O(n)$                   | $O(n \cdot log \cdot n)$     | $O(n \cdot log \cdot n)$     | $O(n)$           |     |
+![[Screenshot 2024-03-20 at 1.05.25 PM.png]]
